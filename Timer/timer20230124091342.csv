@@ -1,0 +1,6 @@
+username;email;timeSpentSeconds;issueId;issueKey;started;id;caseNumber;taskNumber;summary;labels;projectkey;projectname;parentissuekey;parentissuetypename;parentissuesummary;createdatetime
+perh;perh@seges.dk;9000;211050;IGN-635;23-01-2023 14:55:42;346708;9925 - SEGES Digital - generelt;007 (Timer kræver note);Fetch data og opdel det;;IGN;Ignite;IGN-637;Story;Jira board og time opfølgning;24-01-2023 09:13:42
+perh;perh@seges.dk;3600;208266;IGN-587;23-01-2023 16:26:00;346710;9925 - SEGES Digital - generelt;007 (Timer kræver note);Guilds 2023;IgniteTimeregistrering;IGN;Ignite;IGN-26;Epic;Timeregistering på fasteopgaver;24-01-2023 09:13:42
+perh;perh@seges.dk;3600;207896;IGNK-32;23-01-2023 16:26:00;346711;;;BC load af data fra fileshares (Spectra) med DataFactory del 2;;IGNK;Ignite Konsulentopgaver;IGNK-31;Epic;BC-projektet (L&F);24-01-2023 09:13:42
+perh;perh@seges.dk;7200;210951;AGR-1760;23-01-2023 14:14:55;346667;9634 - AgroID drift;500 – AgroId drift 2023;Refinement;Ignite;AGR;AgroID IAM Platform;AGR-1638;Epic;Gennemarbejdning af Azure Monitor og øvrige instrumentering ifht. AgroId;24-01-2023 09:13:42
+perh;perh@seges.dk;3600;208268;IGN-589;23-01-2023 16:26:00;346709;9925 - SEGES Digital - generelt;007 (Timer kræver note);Scrum og SAFe Ceremonier 2023;IgniteTimeregistrering;IGN;Ignite;IGN-26;Epic;Timeregistering på fasteopgaver;24-01-2023 09:13:42
